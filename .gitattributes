@@ -1,0 +1,14 @@
+* text=auto eol=lf
+*.lua text eol=lf
+*.js  text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.md  text eol=lf
+*.png binary
+*.jpg binary
+*.ogg binary
+*.ytd binary
+*.ydr binary
+*.yft binary
+*.ymap binary
+*.ytyp binary

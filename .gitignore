@@ -1,0 +1,19 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Build output (release zips are made by CI)
+dist/
+*.zip
+
+# Node (if a script ever has a built NUI)
+node_modules/
+
+# Never commit secrets
+.env
+*.key
+server.cfg
